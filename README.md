@@ -21,7 +21,8 @@ The high-level, district summary shows that there are a total of 15 schools with
 ### Key Metrics for Each School
 #### Original Dataset
 <img width="530" alt="per_school_summary_df_PreUpdate" src="https://user-images.githubusercontent.com/104801614/173038240-93809e47-5bd8-4f7d-bcb9-3d40be3f21b5.png">
-#### Update Thomas High Dataset
+
+#### Updated Thomas High Dataset
 <img width="531" alt="School_Summary_ActuallyUpdated" src="https://user-images.githubusercontent.com/104801614/173047396-1c7698b5-4141-44b1-90e5-d45fcf6dee40.png">
 
 This DataFrame classifies each of the 15 schools (charter or district), displays the total student body, the school's budget, the per student spend, and summary statistics of their test scores.  This summary still includes the 461 9th grade students from Thomas High.  When those students were eliminated from the count, the math and reading scores went up.  We can also see that the Reading and Math scores for Thomas High went up significantly, once the 9th grader scores were nulled out in the dataset.
